@@ -1,0 +1,14 @@
+body{
+    background-image: url('wp.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 300px;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+.center{
+    padding-left: 20px;
+    padding-right: 20px;
+}
